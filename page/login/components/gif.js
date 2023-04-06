@@ -9,9 +9,9 @@ export const Gif = () => {
 
   const Props = StyleSheet.create({
     border: {
-    borderRadius: 200,
-    width: 300, 
-    height: 300,
+
+    width: 500, 
+    height: 400,
     },
 
   });
